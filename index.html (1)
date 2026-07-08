@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>❤️</title>
+<style>
+body{
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+background:#ffb6c1;
+font-family:Arial;
+flex-direction:column;
+}
+h1{font-size:50px;color:red;}
+p{font-size:25px;}
+</style>
+</head>
+<body>
+<h1>❤️</h1>
+<p>Maukah kamu jadi pacarku? 🌹</p>
+</body>
+</html>
